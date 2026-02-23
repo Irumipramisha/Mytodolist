@@ -1,3 +1,5 @@
+<img width="560" height="447" alt="image" src="https://github.com/user-attachments/assets/f7a0b014-3a42-49f9-a3a1-971f015378a2" />
+
 # My Interactive Todo List
 
 This is a simple, clean, and functional **Todo List application** built using HTML, CSS, and JavaScript. I created this project to manage daily tasks efficiently while learning how to use **Local Storage** in the browser.
