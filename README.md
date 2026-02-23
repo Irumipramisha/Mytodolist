@@ -18,7 +18,7 @@ You can check out the live version here:
 ## Technologies Used
 * **HTML5:** For the structure.
 * **CSS3:** For styling and layout.
-* **JavaScript (ES6):** For the logic and local storage integration.
+* **JavaScript:** For the logic and local storage integration.
 
 ## Project Structure
 * `index.html` - The main entry point.
